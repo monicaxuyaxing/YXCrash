@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'YXCrash_Example' do
+  pod 'YXCrash', :path => '../'
+
+  target 'YXCrash_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

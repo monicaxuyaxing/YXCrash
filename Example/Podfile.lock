@@ -1,0 +1,16 @@
+PODS:
+  - YXCrash (0.1.0)
+
+DEPENDENCIES:
+  - YXCrash (from `../`)
+
+EXTERNAL SOURCES:
+  YXCrash:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  YXCrash: 3e11545d27bc337532c4e987d0aed0ac383d7044
+
+PODFILE CHECKSUM: 50b7cfcb350cc16e877b6dd57d87898589ef1f94
+
+COCOAPODS: 1.7.0.beta.2

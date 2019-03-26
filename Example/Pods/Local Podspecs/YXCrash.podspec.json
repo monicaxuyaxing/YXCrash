@@ -1,0 +1,22 @@
+{
+  "name": "YXCrash",
+  "version": "0.1.0",
+  "summary": "A short description of YXCrash.",
+  "description": "\"YXCrash防止数组、KVO等可导致程序crash框架，可降低线上程序崩溃概率\"",
+  "homepage": "https://gitee.com/monicaFighting/YXCrash",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "monicaFighting": "1577003764@qq.com"
+  },
+  "source": {
+    "git": "https://gitee.com/monicaFighting/YXCrash.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "YXCrash/Classes/**/*"
+}

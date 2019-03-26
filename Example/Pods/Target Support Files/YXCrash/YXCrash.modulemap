@@ -1,0 +1,6 @@
+framework module YXCrash {
+  umbrella header "YXCrash-umbrella.h"
+
+  export *
+  module * { export * }
+}
